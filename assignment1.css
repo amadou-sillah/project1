@@ -7,7 +7,7 @@ body{
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
-    background-color: rgb(139, 100, 100);
+    background-color: white;
 }
 .info{
     margin-top: 130px;
@@ -15,16 +15,20 @@ body{
     text-align: left;
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(179, 6, 136)
+    color: rgb(73, 32, 3);
+    margin-right: 960px;
 }
 header{
     margin-left: 150px;
     padding: 25px;
-    color: red;
+    color: rgb(24, 10, 1);
+}
+thirdTitle{
+    margin-top: 20px;
 }
 footer{
     background-color: black;
     color: white;
-    margin-top: 40px;
+    margin-top: 100px;
     
 }
